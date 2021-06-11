@@ -4,7 +4,7 @@
 I built a system for Benign or Malignant cancer classification based on various features like cell shape, cell size, mitoses rate, etc
 On the given dataset, KNN performed better than other  possibly signifying that the ***dataset is not linearly separable*** (there could be other reasons also, like, outliers in the data set). This conforms to what scatter plot of features from dataset showed.
 
-<img src="https://github.com/kunal-visoulia/Breast-Cancer-Detection-using-KNN-and-SVM/blob/master/images/10.png"  />
+<img src="https://github.com/harshdeep1230/Breast-Cancer-Detection/blob/main/Breast-Cancer-Detection-using-KNN/images/10.png"  />
 
 ### DATASET
 Link for the dataset used
@@ -22,7 +22,7 @@ KNN is a [**non-parametric**](https://machinelearningmastery.com/parametric-and-
 
 KNN Algorithm is based on feature similarity: How closely out-of-sample features resemble our training set determines how we classify a given data point:
 
-![](https://github.com/kunal-visoulia/Breast-Cancer-Detection-using-KNN-and-SVM/blob/master/images/1.png)
+![](https://github.com/harshdeep1230/Breast-Cancer-Detection/blob/main/Breast-Cancer-Detection-using-KNN/images/1.png)
 
 *Example of k-NN classification. The test sample (inside circle) should be classified either to the first class of blue squares or to the second class of red triangles. If k = 3 (outside circle) it is assigned to the second class because there are 2 triangles and only 1 square inside the inner circle. If, for example k = 5 it is assigned to the first class (3 squares vs. 2 triangles outside the outer circle).*
 
